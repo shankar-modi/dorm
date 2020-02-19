@@ -1,6 +1,6 @@
 package dorm
 
-import "github.com/rightjoin/fig"
+import "github.com/shankar-modi/fig"
 
 // If watchers are started on different boxes, the system
 // should halt or panic

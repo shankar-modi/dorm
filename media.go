@@ -15,7 +15,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/rightjoin/fig"
+	"github.com/shankar-modi/fig"
 	log "github.com/rightjoin/rlog"
 )
 

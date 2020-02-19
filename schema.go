@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	"github.com/jinzhu/gorm"
-	"github.com/rightjoin/fig"
+	"github.com/shankar-modi/fig"
 	"github.com/rightjoin/rutl/conv"
 	"github.com/rightjoin/rutl/refl"
 )

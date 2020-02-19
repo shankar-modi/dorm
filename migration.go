@@ -15,7 +15,7 @@ import (
 	"time"
 
 	"github.com/pkg/errors"
-	"github.com/rightjoin/fig"
+	"github.com/shankar-modi/fig"
 	log "github.com/rightjoin/rlog"
 	rip "github.com/rightjoin/rutl/ip"
 )

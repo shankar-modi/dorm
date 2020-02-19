@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/jinzhu/gorm"
-	"github.com/rightjoin/fig"
+	"github.com/shankar-modi/fig"
 )
 
 // list of connections

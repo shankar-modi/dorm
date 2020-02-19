@@ -7,7 +7,7 @@ import (
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/s3"
-	"github.com/rightjoin/fig"
+	"github.com/shankar-modi/fig"
 )
 
 // UploadToS3 uploads the given contents of a file to s3 upon the given key.
